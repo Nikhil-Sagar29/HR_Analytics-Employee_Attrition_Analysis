@@ -62,6 +62,7 @@ The dataset contains employee-level information across multiple dimensions:
 5. Environment Satisfaction
    
 📈 Key Analysis Areas
+--------------------------------------------------
 
 1. Department-wise attrition
 2. Salary and compensation trends
@@ -70,6 +71,7 @@ The dataset contains employee-level information across multiple dimensions:
 5. Employee satisfaction and engagement
    
 🔍 Key Insights
+---------------------------------------------------
 
 1. Higher attrition observed among early-tenure employees
 2. Employees in lower salary bands show higher turnover
@@ -78,6 +80,7 @@ The dataset contains employee-level information across multiple dimensions:
 5. Attrition varies across departments, with certain departments showing higher risk
 
 💡 Recommendations
+-----------------------------------------------------------
 
 1. Improve salary growth for lower income groups
 2. Provide timely promotions and clear career progression
@@ -85,6 +88,7 @@ The dataset contains employee-level information across multiple dimensions:
 4. Focus on high-risk departments and employee segments
    
 📊 Dashboard Features
+--------------------------------------------------------------
 
 1. Interactive multi-page Power BI dashboard
 2. KPI tracking (Attrition Rate, Salary Trends, Tenure Metrics)
@@ -92,6 +96,7 @@ The dataset contains employee-level information across multiple dimensions:
 4. Insight-driven visual storytelling
    
 🚀 Conclusion
+-----------------------------------------------------------------
 
 The analysis highlights that employee attrition is influenced by a combination of compensation, career growth, work conditions, and employee engagement. Addressing these factors can significantly improve retention and organizational performance.
 
